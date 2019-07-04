@@ -67,7 +67,7 @@ public class HomePageTestE extends TestBaseE {
    @AfterMethod()
    public void tearup()
    {
-	// driver.quit();
+	 driver.quit();
    }
 
 
